@@ -4,7 +4,7 @@
 
 I believe in tech for good, and tech for everyone.
 
-[![Mawuli's github stats](https://github-readme-stats.vercel.app/api?username=mawuli)](https://github.com/mawuliadjei/mawuliadjei)
+[![Mawuli's github stats](https://github-readme-stats.vercel.app/api?username=mawuliadjei)](https://github.com/mawuliadjei/mawuliadjei)
 
 <!--
 **mawuliadjei/mawuliadjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
