@@ -15,7 +15,7 @@ You'll also see that I contribute a lot to pyParakeets; a data science dev group
 If you want to check out what I'm doing professionally, feel free to visit my LinkedIn by clicking on my face to the right lol
 
 
-## Repos
+## Projects
 
 ## Languages
 
