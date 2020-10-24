@@ -2,11 +2,11 @@
 
 ### Hey ✌🏻
 
-I believe in tech for good, and tech for everyone.
-
 <p>
-  <a href="https://www.linkedin.com/in/mawuliadjei/"><img width="300" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQH6EcXj5AfGxQ/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=N41MawZ1enkobO99WGSzFxFTt_Kv9ozCPk-9MD-mSSs"></a>
+  <a href="https://www.linkedin.com/in/mawuliadjei/"><img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQH6EcXj5AfGxQ/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=N41MawZ1enkobO99WGSzFxFTt_Kv9ozCPk-9MD-mSSs"></a>
 </p>
+
+I believe in tech for good, and tech for everyone.
 
 I'm a data scientist interested in contributing to the data science and machine learning ecosystem, as well as building software. Expect to see a lot of such projects in my repositories listed below.
 
