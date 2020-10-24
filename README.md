@@ -17,6 +17,13 @@ If you want to check out what I'm doing professionally, feel free to visit my Li
 
 ## Projects
 
+### Resurrecting Beethoven with LTSMs
+In this project, my team and I spent time using Deep Learning to create music, by working primarily with LSTMs.
+<p>
+  <a href="https://www.linkedin.com/pulse/we-resurrected-beethoven-data-science-heres-how-mawuli-adjei/"><img width="200" align='left' src="https://media-exp1.licdn.com/dms/image/C5112AQG8Cv-gpC23bA/article-cover_image-shrink_423_752/0?e=1608768000&v=beta&t=eioGrlUYgOuDWD3e1t3ePiSeYb8mfQyCOQPSM2sqlAA"></a>
+</p>
+We took data from child prodigy Beethoven and the British band Queen, and we used meaningful learned patterns to create 'new' music. Feel free to go through the code in my repository. Even better, read the article I wrote that explains how we went about it by clicking on Beethoven's face lol
+
 ## Languages
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawuliadjei&count_private=true" />
