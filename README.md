@@ -4,6 +4,10 @@
 
 I believe in tech for good, and tech for everyone.
 
+I'm a data scientist interested in contributing to the data science and machine learning ecosystem, as well as building software. Expect to see a lot of such projects in my repositories.
+
+You'll also see that I contribute a lot to pyParakeets; a data science dev group I formed with other data people. Feel free to reach out to learn more or if you want to join us.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawuliadjei&count_private=true" />
 
 
