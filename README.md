@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/mawuliadjei/<OWNER>/<OWNER>/memoji.jpeg "Header")](https://github.com/mawuliadjei/mawuliadjei)
+
 ### Hi there 👋
 
 <!--
