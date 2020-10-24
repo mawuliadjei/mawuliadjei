@@ -25,7 +25,7 @@ In this project, my team and I spent time using Deep Learning to create music, b
 
 We took data from child prodigy Beethoven and the British band Queen, and we used meaningful learned patterns to create 'new' music. Feel free to go through the code in my repository. Even better, read the article I wrote that explains how we went about it by clicking on Beethoven's face lol
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/605752113&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mawuli-adjei-893458814" title="Mawuli Adjei" target="_blank" style="color: #cccccc; text-decoration: none;">Mawuli Adjei</a> · <a href="https://soundcloud.com/mawuli-adjei-893458814/queen1_made_with_neural_networ" title="Queen1_made_with_neural_network" target="_blank" style="color: #cccccc; text-decoration: none;">Queen1_made_with_neural_network</a></div>
+<a href="https://soundcloud.com/mawuli-adjei-893458814/beethoven2_made_with_neural_ne">Listen to what we produced when we resurrected Beethoven</a>
 
 ## Languages
 
