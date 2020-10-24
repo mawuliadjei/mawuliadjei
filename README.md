@@ -1,6 +1,8 @@
 [![Header](https://raw.githubusercontent.com/mawuliadjei/mawuliadjei/main/assets/memoji.jpeg "Header")](https://github.com/mawuliadjei/mawuliadjei)
 
-### Hi there 👋
+### Hey ✌🏻
+
+I believe in tech for good, and tech for everyone.
 
 <!--
 **mawuliadjei/mawuliadjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
