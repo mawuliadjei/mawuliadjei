@@ -11,7 +11,7 @@ You'll also see that I contribute a lot to pyParakeets; a data science dev group
 If you want to check out what I'm doing professionally, feel free to visit my LinkedIn
 
 <p>
-  <a href="https://www.linkedin.com/in/mawuliadjei/"><img width="150" align='right' src="https://www.linkedin.com/in/mawuliadjei/"></a>
+  <a href="https://media-exp1.licdn.com/dms/image/C5603AQH6EcXj5AfGxQ/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=N41MawZ1enkobO99WGSzFxFTt_Kv9ozCPk-9MD-mSSs"><img width="150" align='right' src="https://www.linkedin.com/in/mawuliadjei/"></a>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawuliadjei&count_private=true" />
