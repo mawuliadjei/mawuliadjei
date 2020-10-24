@@ -4,7 +4,7 @@
 
 I believe in tech for good, and tech for everyone.
 
-![Mawuli's github stats](https://github-readme-stats.vercel.app/api/top_lang/?username=mawuliadjei)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top_lang/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 
