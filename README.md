@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mawuliadjei/<OWNER>/<OWNER>/assets/memoji.png "Header")](https://github.com/mawuliadjei/mawuliadjei)
+[![Header](https://raw.githubusercontent.com/mawuliadjei/mawuliadjei/assets/memoji.png "Header")](https://github.com/mawuliadjei/mawuliadjei)
 
 ### Hi there 👋
 
