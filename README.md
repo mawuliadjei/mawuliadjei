@@ -29,10 +29,10 @@ We took data from child prodigy Beethoven and the British band Queen, and we use
 
 ## Languages
 
-I'm a rockstar in Python and SQL
-I'm nimble in Shell scripting
-I've dabbled with Java
-I'm learning Go at the moment
+- I'm a rockstar in Python and SQL
+- I'm nimble in Shell scripting
+- I've dabbled with Java
+- I'm learning Go at the moment
 
 
 
