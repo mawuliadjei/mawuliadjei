@@ -29,7 +29,10 @@ We took data from child prodigy Beethoven and the British band Queen, and we use
 
 ## Languages
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawuliadjei&count_private=true" />
+I'm a rockstar in Python and SQL
+I'm nimble in Shell scripting
+I've dabbled with Java
+I'm learning Go at the moment
 
 
 
