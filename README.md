@@ -19,13 +19,13 @@ If you want to check out what I'm doing professionally, feel free to visit my Li
 
 ### Python Package for Benford's Law Analysis
 <p>
-  <a href="https://pypi.org/project/benfords-law/"><img width="200" align='left' src="https://warehouse-camo.ingress.cmh1.psfhosted.org/2b7a7c253b904d1264fc8ba4ea57ad1920bb24f6/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6177756c6961646a65692f62656e666f7264735f6c61772f6d61696e2f696d616765732f62656e666f7264735f6c61775f646973747269627574696f6e2e706e67"></a>
+  <a href="https://pypi.org/project/benfords-law/"><img width="200" align='left' src="https://warehouse-camo.ingress.cmh1.psfhosted.org/4977c522ac7cf3f4e00017da8f9a98232b3f2daa/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6177756c6961646a65692f62656e666f7264735f6c61772f6d61696e2f696d616765732f706f70756c6174696f6e735f62656e666f7264735f6c61772e706e67"></a>
 </p>
 I got thoroughly intrigued by Benford's Law; a weird and myterious mathematical law that applies to many sets of numbers.
 
-Analysis done with this law is incredibly powerful and has been used by forensic auditors to find tax fraud, among many other use cases. I built an open source python package and published it to the pypi index, making it globally available for all analysis.
+Analysis done with this law is incredibly powerful and has been used by forensic auditors to find tax fraud, among many other use cases. I built an open source python package and published it to the pypi index, making it globally available for all to use and derive value from.
 
-<a href="https://benfords-law.readthedocs.io">Read the documentations</a>
+<a href="https://benfords-law.readthedocs.io">Read the documentation here</a>
 
 ### Resurrecting Beethoven with LTSMs
 <p>
