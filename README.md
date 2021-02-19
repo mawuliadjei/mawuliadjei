@@ -17,9 +17,19 @@ If you want to check out what I'm doing professionally, feel free to visit my Li
 
 ## Projects
 
+### Python Package for Benford's Law Analysis
+<p>
+  <a href="https://pypi.org/project/benfords-law/"><img width="200" align='left' src="https://warehouse-camo.ingress.cmh1.psfhosted.org/2b7a7c253b904d1264fc8ba4ea57ad1920bb24f6/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6177756c6961646a65692f62656e666f7264735f6c61772f6d61696e2f696d616765732f62656e666f7264735f6c61775f646973747269627574696f6e2e706e67"></a>
+</p>
+I got thoroughly intrigued by Benford's Law; a weird and myterious mathematical law that applies to many sets of numbers.
+
+Analysis done with this law is incredibly powerful and has been used by forensic auditors to find tax fraud, among many other use cases. I built an open source python package and published it to the pypi index, making it globally available for all analysis.
+
+<a href="https://benfords-law.readthedocs.io">Read the documentations</a>
+
 ### Resurrecting Beethoven with LTSMs
 <p>
-  <a href="https://www.linkedin.com/pulse/we-resurrected-beethoven-data-science-heres-how-mawuli-adjei/"><img width="200" align='left' src="https://media-exp1.licdn.com/dms/image/C5112AQG8Cv-gpC23bA/article-cover_image-shrink_423_752/0/1555237226409?e=1615420800&v=beta&t=S9bu3bDfgWP9sXHXUm4lasxklWIOsbRjUxgJAA_VSz0"></a>
+  <a href="https://www.linkedin.com/pulse/we-resurrected-beethoven-data-science-heres-how-mawuli-adjei/"><img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C5112AQG8Cv-gpC23bA/article-cover_image-shrink_423_752/0/1555237226409?e=1615420800&v=beta&t=S9bu3bDfgWP9sXHXUm4lasxklWIOsbRjUxgJAA_VSz0"></a>
 </p>
 In this project, my team and I spent time using Deep Learning to create music, by working primarily with LSTMs.
 
