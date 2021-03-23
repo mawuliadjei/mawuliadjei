@@ -29,7 +29,7 @@ Analysis done with this law is incredibly powerful and has been used by forensic
 
 ### Resurrecting Beethoven with LTSMs
 <p>
-  <a href="https://www.linkedin.com/pulse/we-resurrected-beethoven-data-science-heres-how-mawuli-adjei/"><img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C5112AQG8Cv-gpC23bA/article-cover_image-shrink_423_752/0/1555237226409?e=1615420800&v=beta&t=S9bu3bDfgWP9sXHXUm4lasxklWIOsbRjUxgJAA_VSz0"></a>
+  <a href="https://www.linkedin.com/pulse/we-resurrected-beethoven-data-science-heres-how-mawuli-adjei/"><img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C5112AQG8Cv-gpC23bA/article-cover_image-shrink_423_752/0/1555237226409?e=1622073600&v=beta&t=CU0yKtzxFO9al7cja7kwa7MjIfm-DWCqJ3SkDaB_mDg"></a>
 </p>
 In this project, my team and I spent time using Deep Learning to create music, by working primarily with LSTMs.
 
