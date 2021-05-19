@@ -3,7 +3,7 @@
 ### Hey ✌🏻
 
 <p>
-  <a href="https://www.linkedin.com/in/mawuliadjei/"><img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQF4yx_qwcTzsw/profile-displayphoto-shrink_800_800/0/1612102174026?e=1619049600&v=beta&t=yYkhEPBMw5dbfUIM06pEoxGKs0LIUvuUEJCou2dho24"></a>
+  <a href="https://www.linkedin.com/in/mawuliadjei/"><img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQF4yx_qwcTzsw/profile-displayphoto-shrink_400_400/0/1612102174026?e=1626912000&v=beta&t=lrx_6pQEViT-30QtuyEj-BWhj-y8NyE2NtjSg5tohgc"></a>
 </p>
 
 I believe in tech for good, and tech for everyone.
